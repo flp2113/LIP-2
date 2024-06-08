@@ -1,2 +1,3 @@
 # LIP-2
-genius
+
+Genius game made in Scratch.
